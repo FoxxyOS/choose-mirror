@@ -1,0 +1,689 @@
+Site: archive.foxxysec.org
+Type: Push-Primary
+Archive-architecture: amd64 armhf arm64 i386
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: archive.foxxysec.org
+Country: FR France
+IPv6: no
+
+
+
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: US United States
+IPv6: no
+
+Site: mit-usa.archive.foxxysec.org
+Archive-upstream: mit-usa.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: US United States
+IPv6: no
+
+Site: mirrors.mit.edu
+Archive-upstream: mirrors.mit.edu
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: US United States
+IPv6: no
+
+Site: mirror.clarkson.edu
+Archive-upstream: mirror.clarkson.edu
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: US United States
+IPv6: no
+
+Site: mirrors.ocf.berkeley.edu
+Archive-upstream: mirrors.ocf.berkeley.edu
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: US United States
+IPv6: yes
+
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: EC Ecuador
+IPv6: no
+
+Site: mirror.cedia.org.ec
+Archive-upstream: mirror.cedia.org.ec
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: EC Ecuador
+IPv6: no
+
+Site: cedia-sam.archive.foxxysec.org
+Archive-upstream: cedia-sam.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: EC Ecuador
+IPv6: no
+
+Site: uta-sam.archive.foxxysec.org
+Archive-upstream: uta-sam.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: EC Ecuador
+IPv6: no
+
+Site: mirror.uta.edu.ec
+Archive-upstream: mirror.uta.edu.ec
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: EC Ecuador
+IPv6: no
+
+Site: ueb-sam.archive.foxxysec.org
+Archive-upstream: ueb-sam.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: EC Ecuador
+IPv6: no
+
+Site: mirror.ueb.edu.ec
+Archive-upstream: mirror.ueb.edu.ec
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: EC Ecuador
+IPv6: no
+
+
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: IT Italy
+IPv6: no
+
+Site: garr-euro.archive.foxxysec.org
+Archive-upstream: garr-euro.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /mirrors/foxxy/
+Country: IT Italy
+IPv6: yes
+
+Site: mi.mirror.garr.it
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-ftp: /mirrors/foxxy/
+Archive-http: /mirrors/foxxy/
+Archive-rsync:  foxxy/
+Maintainer: mirror-service@garr.it
+Country: IT Italy
+Location: Milano
+Sponsor: GARR/CILEA http://mirror.garr.it/
+IPv6: yes
+
+Site: na.mirror.garr.it
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-ftp: /mirrors/foxxy/
+Archive-http: /mirrors/foxxy/
+Archive-rsync:  foxxy/
+Maintainer: mirror-service@garr.it
+Country: IT Italy
+Location: Napoli
+Sponsor: GARR/CILEA http://mirror.garr.it/
+IPv6: yes
+
+Site: ba.mirror.garr.it
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-ftp: /mirrors/foxxy/
+Archive-http: /mirrors/foxxy/
+Archive-rsync:  foxxy/
+Maintainer: mirror-service@garr.it
+Country: IT Italy
+Location: Bari
+Sponsor: GARR/CILEA http://mirror.garr.it/
+IPv6: yes
+
+Site: rm.mirror.garr.it
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-ftp: /mirrors/foxxy/
+Archive-http: /mirrors/foxxy/
+Archive-rsync:  foxxy/
+Maintainer: mirror-service@garr.it
+Country: IT Italy
+Location: Roma
+Sponsor: GARR/CILEA http://mirror.garr.it/
+IPv6: yes
+
+Site: bo.mirror.garr.it
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-ftp: /mirrors/foxxy/
+Archive-http: /mirrors/foxxy/
+Archive-rsync:  foxxy/
+Maintainer: mirror-service@garr.it
+Country: IT Italy
+Location: Bologna
+Sponsor: GARR/CILEA http://mirror.garr.it/
+IPv6: yes
+
+Site: ct.mirror.garr.it
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-ftp: /mirrors/foxxy/
+Archive-http: /mirrors/foxxy/
+Archive-rsync:  foxxy/
+Maintainer: mirror-service@garr.it
+Country: IT Italy
+Location: Catania
+Sponsor: GARR/CILEA http://mirror.garr.it/
+IPv6: yes
+
+Site: italy.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-ftp: /foxxy/
+Archive-http: /foxxy/
+Archive-rsync:  foxxy/
+Country: IT Italy
+
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: FR France
+IPv6: no
+
+Site: foxxy-euro.archive.foxxysec.org
+Archive-upstream: foxxy-euro.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: FR France
+IPv6: no
+
+Site: fr.mirror.babylon.network
+Archive-upstream: fr.mirror.babylon.network
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/ 
+Country: FR France
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: DE Germany
+IPv6: no
+
+Site: rwth-aachen-euro.archive.foxxysec.org
+Archive-upstream: rwth-aachen-euro.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxysec/
+Country: DE Germany
+IPv6: yes
+
+Site: http://ftp.halifax.rwth-aachen.de/
+Archive-upstream: http://ftp.halifax.rwth-aachen.de/
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxysec/
+Country: DE Germany
+IPv6: yes
+
+Site: esslingen-euro.archive.foxxysec.org
+Archive-upstream: esslingen-euro.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /pub/Mirrors/archive.foxxysec.org/
+Country: DE Germany
+IPv6: no
+
+Site: ftp-stud.hs-esslingen.de
+Archive-upstream: ftp-stud.hs-esslingen.de
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /pub/Mirrors/archive.foxxysec.org/
+Country: DE Germany
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: GB United Kingdom
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: BE Belgium
+IPv6: no
+
+Site: ftp.belnet.be
+Archive-http: /archive.foxxysec.org/
+Archive-upstream: ftp.belnet.be
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: BE Belgium
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: PT Portugal
+IPv6: no
+
+Site: mirrors.up.pt
+Archive-http: /foxxy/
+Archive-upstream: mirrors.up.pt
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: PT Portugal
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: ES Spain
+IPv6: no
+
+Site: matojo.unizar.es
+Archive-http: /foxxy/
+Archive-upstream: matojo.unizar.es
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: ES Spain
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: DK Denmark
+IPv6: no
+
+Site: mirrors.dotsrc.org
+Archive-http: /foxxy-repo/
+Archive-upstream: mirrors.dotsrc.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: DK Denmark
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: NL Netherlands
+IPv6: no
+
+Site: nluug-euro.archive.foxxysec.org
+Archive-upstream: nluug-euro.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /os/Linux/distr/foxxy/ 
+Country: NL Netherlands
+IPv6: yes
+
+Site: ftp.nluug.nl
+Archive-upstream: ftp.nluug.nl
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /os/Linux/distr/foxxy/ 
+Country: NL Netherlands
+IPv6: yes
+
+Site: nl.mirror.babylon.network
+Archive-upstream: nl.mirror.babylon.network
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/ 
+Country: NL Netherlands
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: PL Poland
+IPv6: no
+
+Site: onet-euro.archive.foxxysec.org
+Archive-upstream: onet-euro.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /pub/mirrors/foxxy/
+Country: PL Poland
+IPv6: no
+
+Site: mirror.onet.pl
+Archive-upstream: mirror.onet.pl
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /pub/mirrors/foxxy/
+Country: PL Poland
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: SE Sweden
+IPv6: no
+
+Site: umu-euro.archive.foxxysec.org
+Archive-upstream: umu-euro.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /mirror/foxxysec.org/foxxy/
+Country: SE Sweden
+IPv6: yes
+
+Site: umu-euro.archive.foxxysec.org
+Archive-upstream: umu-euro.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /mirror/foxxysec.org/foxxy/
+Country: SE Sweden
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: IE Ireland
+IPv6: no
+
+Site: ftp.heanet.ie
+Archive-upstream: ftp.heanet.ie
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /pub/foxxysec/
+Country: IE Ireland
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: GR Greece
+IPv6: no
+
+Site: ftp.cc.uoc.gr
+Archive-upstream: ftp.cc.uoc.gr
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /mirrors/linux/foxxy/
+Country: GR Greece
+IPv6: no
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: GR Greece
+IPv6: no
+
+Site: turkey.archive.foxxysec.org
+Archive-upstream: turkey.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: TR Turkey
+IPv6: no
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: UA Ukraine
+IPv6: no
+
+Site: foxxysec.volia.net
+Archive-upstream: foxxysec.volia.net
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /
+Country: UA Ukraine
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: RU Russian Federation
+IPv6: no
+
+Site: yandex-asia.archive.foxxysec.org
+Archive-upstream: yandex-asia.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /mirrors/foxxy/
+Country: RU Russian Federation
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: UZ Uzbekistan
+IPv6: no
+
+Site: yandex-asia.archive.foxxysec.org
+Archive-upstream: yandex-asia.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /mirrors/foxxy/
+Country: UZ Uzbekistan
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: BD Bangladesh
+IPv6: no
+
+Site: amberit-asia.archive.foxxysec.org
+Archive-upstream: amberit-asia.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxysec/
+Country: BD Bangladesh
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: TW Taiwan
+IPv6: no
+
+Site: free.nchc.org.tw
+Archive-upstream: free.nchc.org.tw
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: TW Taiwan
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: SG Singapore
+IPv6: no
+
+Site: mirror.0x.sg
+Archive-upstream: mirror.0x.sg
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: SG Singapore
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: TH Thailand
+IPv6: no
+
+Site: mirror.kku.ac.th
+Archive-http: /foxxy/
+Archive-upstream: mirror.kku.ac.th
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: TH Thailand
+IPv6: no
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: CN China
+IPv6: no
+
+Site: mirrors.ustc.edu.cn
+Archive-upstream: mirrors.ustc.edu.cn
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: CN China
+IPv6: yes
+
+Site: mirrors.tuna.tsinghua.edu.cn
+Archive-upstream: mirrors.tuna.tsinghua.edu.cn
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /foxxy/
+Country: CN China
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: IR Iran, Islamic Republic of
+IPv6: no
+
+Site: foxxy.asis.io
+Archive-upstream: foxxy.asis.io
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /
+Country: IR Iran, Islamic Republic of
+IPv6: yes
+
+
+Site: mirrordirector.foxxysec.org
+Archive-http: /foxxy/
+Archive-rsync: foxxy/
+Archive-upstream: mirrordirector.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Country: NC New Caledonia
+IPv6: no
+
+Site: lagoon-ocean.archive.foxxysec.org
+Archive-upstream: lagoon-ocean.archive.foxxysec.org
+Type: leaf
+Archive-architecture: amd64 arm64 armhf i386
+Archive-http: /pub/foxxy/
+Country: NC New Caledonia
+IPv6: no
